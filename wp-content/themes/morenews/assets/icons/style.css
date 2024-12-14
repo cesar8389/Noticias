@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'aft-icons';
-  src:  url('fonts/aft-icons.eot?e3nek0');
-  src:  url('fonts/aft-icons.eot?e3nek0#iefix') format('embedded-opentype'),
-    url('fonts/aft-icons.ttf?e3nek0') format('truetype'),
-    url('fonts/aft-icons.woff?e3nek0') format('woff'),
-    url('fonts/aft-icons.svg?e3nek0#aft-icons') format('svg');
+  src:  url('/wp-content/themes/morenews/assets/icons/fonts/aft-icons.eot?e3nek0');
+  src:  url('/wp-content/themes/morenews/assets/icons/fonts/aft-icons.eot?e3nek0#iefix') format('embedded-opentype'),
+    url('/wp-content/themes/morenews/assets/icons/fonts/aft-icons.ttf?e3nek0') format('truetype'),
+    url('/wp-content/themes/morenews/assets/icons/fonts/aft-icons.woff?e3nek0') format('woff'),
+    url('/wp-content/themes/morenews/assets/icons/fonts/aft-icons.svg?e3nek0#aft-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
